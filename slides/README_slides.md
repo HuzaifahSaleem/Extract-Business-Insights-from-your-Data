@@ -61,10 +61,6 @@ jupyter:
 
 
 +++ {"slideshow": {"slide_type": "slide"}}
-![center](https://github.com/HuzaifahSaleem/Extract-Business-Insights-from-your-Data/blob/master/images/slide_images/Slide13.png?raw=true)
-
-
-+++ {"slideshow": {"slide_type": "slide"}}
 ![center](https://github.com/HuzaifahSaleem/Extract-Business-Insights-from-your-Data/blob/master/images/slide_images/Slide14.png?raw=true)
 
 
